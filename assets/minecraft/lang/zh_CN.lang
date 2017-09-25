@@ -1,4 +1,4 @@
-#################################Quests#################################	
+#################################Quests#################################
 
 #Quest_0.Your first night
 gtnh.quest0.name=第一个夜晚 (Your first night)
@@ -2136,11 +2136,11 @@ gtnh.quest532.desc=You probably collected a ton of creosote and maybe even have 
 
 #Quest_533.Hydrogen, methane or some farts... (Natural gas) 
 gtnh.quest533.name=Hydrogen, methane or some farts... (Natural gas) 
-gtnh.quest533.desc=Some centrifugal processes leave gases behind like hydrogen or methane. Centrifuge some brown and yellow limonite to get hydrogen or dump your unused food in a centrifuge to get methane gas.
+gtnh.quest533.desc=Some centrifugal processes leave gases behind like hydrogen or methane. Centrifuge some brown and yellow limonite to get hydrogen or dump your unused food in a centrifuge to get methane gas. Wood logs will give a better amount of 60 mb each log. Maybe it's time to build a forestry tree farm.
 
 #Quest_534.Pollution what....?
 gtnh.quest534.name=Pollution what....?
-gtnh.quest534.desc=If you are running your bronze blast furnace for a long time you will sometimes get headaches, nausea and other weird effects. Yes this is pollution... from making so much steel. If you can collect some rubber sheets, I will trade you a complete hazmat suit.
+gtnh.quest534.desc=If you are running your bricked blast furnace for a long time you will sometimes get headaches, nausea and other weird effects. Yes this is pollution... from making so much steel. If you can collect some rubber sheets, I will trade you a complete hazmat suit.
 
 #Quest_535.Redstone, early game processing
 gtnh.quest535.name=Redstone, early game processing
@@ -3248,7 +3248,7 @@ gtnh.quest810.desc=After hours of hard work and a few stacks of TNT your first r
 
 #Quest_811.Tier 1 Schematic
 gtnh.quest811.name=Tier 1 Schematic
-gtnh.quest811.desc=Each rocket needs a construction plan. You can craft the first one using a data control circuit and a compressed steel plate.
+gtnh.quest811.desc=Each rocket needs a construction plan. You can craft the first one using a workstation circuit and a compressed steel plate.
 
 #Quest_812.Tier 1 Heavy Duty Plates
 gtnh.quest812.name=Tier 1 Heavy Duty Plates
@@ -3503,25 +3503,9 @@ gtnh.quest873.desc=要找到一些特别的「潘马斯农艺(pams harvest craft
 gtnh.quest874.name=喷气背包v.0.1 内部测试(Jetpack v.0.1 Alpha)
 gtnh.quest874.desc=你喜欢飞行吗？好，那做个滑溜溜的弹跳板，享受那美好的视野！
 
-#Quest_875.Creeper
-gtnh.quest875.name=爬行者(Creeper)
-gtnh.quest875.desc=你空虚寂寞觉得冷。想要有个朋友可以抱抱吗<3
-
-#Quest_876.Skeleton
-gtnh.quest876.name=骷髅(Skeleton)
-gtnh.quest876.desc=你空虚寂寞觉得冷。让我朝你丢根骨头。
-
-#Quest_877.Spider
-gtnh.quest877.name=蜘蛛(Spider)
-gtnh.quest877.desc=你空虚寂寞觉得冷。想要附近黏黏的吗？
-
-#Quest_878.Zombie
-gtnh.quest878.name=殭尸(Zombie)
-gtnh.quest878.desc=你空虚寂寞觉得冷。然后大脑听起来豪好吃。
-
-#Quest_879.Slime
-gtnh.quest879.name=史莱姆(Slime)
-gtnh.quest879.desc=你空虚寂寞觉得冷，还觉得有一点滑滑der
+#Quest_875.Slime Island Journey
+gtnh.quest875.name=Slime Island Journey
+gtnh.quest875.desc=Rubber trees are not the only source for raw rubber. Go and find some slimy island high in the sky. Slime balls and slime leaves give raw rubber too.\nMake some slime tree farms beside your rubber farm.
 
 #Quest_880.Witch
 gtnh.quest880.name=女巫(Witch)
@@ -3543,17 +3527,13 @@ gtnh.quest883.desc=你空虚寂寞觉得冷，还觉得弹力十足。
 gtnh.quest884.name=终界使者(Enderman)
 gtnh.quest884.desc=你空虚寂寞觉得冷。不准用那双眼睛看着我！
 
-#Quest_885.Witch
-gtnh.quest885.name=女巫(Witch)
-gtnh.quest885.desc=你空虚寂寞觉得冷。你喜欢我的蟾蜍吗？
+#Quest_885.Cave Spider
+gtnh.quest885.name=Cave Spider
+gtnh.quest885.desc=You feel lonely. Do you like my toad?
 
 #Quest_886.Ghast
 gtnh.quest886.name=地狱幽灵(Ghast)
 gtnh.quest886.desc=你空虚寂寞觉得冷。至少你不是个大只的爱哭鬼？
-
-#Quest_887.Bat
-gtnh.quest887.name=蝙蝠(Bat)
-gtnh.quest887.desc=你空虚寂寞觉得冷。 啦啦啦啦♪蝙蝠呀♪
 
 #Quest_888.Silverfish
 gtnh.quest888.name=蠹鱼(Silverfish)
@@ -3845,80 +3825,84 @@ gtnh.line8.desc=这些任务将引导你明智地使用硬币，并购买一些�
 gtnh.line9.name=林业和农场
 gtnh.line9.desc=自动化农场和更多...
 
+#Steve Carts
+gtnh.line10.name=Steve Carts
+gtnh.line10.desc=Auto farming and mining 
+
 #Novice Thaumaturge
-gtnh.line10.name=新手术士
-gtnh.line10.desc=魔法的奥秘皆藏于此。卓越的成就，但也需要大量的工作。我将成为你的导师。照我的指导，你将成为一位伟大的巫师，就像我。
+gtnh.line11.name=新手术士
+gtnh.line11.desc=魔法的奥秘皆藏于此。卓越的成就，但也需要大量的工作。我将成为你的导师。照我的指导，你将成为一位伟大的巫师，就像我。
 
 #Adept Thaumaturgy
-gtnh.line11.name=熟练的奇术师
-gtnh.line11.desc=囊括扭曲。
+gtnh.line12.name=熟练的奇术师
+gtnh.line12.desc=囊括扭曲。
 
 #Kaaami, Haaaami, ... HA!
-gtnh.line12.name=龟...派...气...功波！
-gtnh.line12.desc=终极的奥法力量！
+gtnh.line13.name=龟...派...气...功波！
+gtnh.line13.desc=终极的奥法力量！
 
 #Alternative Magic
-gtnh.line13.name=替代魔法
-gtnh.line13.desc=这是什么样的巫术！？
+gtnh.line14.name=替代魔法
+gtnh.line14.desc=这是什么样的巫术！？
 
 #Multiblock Goals
-gtnh.line14.name=多方块构造
-gtnh.line14.desc=全部的多方块构造追踪清单。你可以在各阶段建造多方块构造的各个部件。
+gtnh.line15.name=多方块构造
+gtnh.line15.desc=全部的多方块构造追踪清单。你可以在各阶段建造多方块构造的各个部件。
 
 #Armors and Jetpacks
-gtnh.line15.name=装甲和喷射背包
-gtnh.line15.desc=指导你穿上装甲和喷射背包。
+gtnh.line16.name=装甲和喷射背包
+gtnh.line16.desc=指导你穿上装甲和喷射背包。
 
 #Cooking Farming Fishing
-gtnh.line16.name=烹饪、农业、捕鱼
-gtnh.line16.desc=烹饪的基础和精致的食物。
+gtnh.line17.name=烹饪、农业、捕鱼
+gtnh.line17.desc=烹饪的基础和精致的食物。
 
 #Transportation
-gtnh.line17.name=运输
-gtnh.line17.desc=各种运输方式。
+gtnh.line18.name=运输
+gtnh.line18.desc=各种运输方式。
 
 #Space Race
-gtnh.line18.name=太空竞赛
-gtnh.line18.desc=帮助你开始星系模块并抵达月球。
+gtnh.line19.name=太空竞赛
+gtnh.line19.desc=帮助你开始星系模块并抵达月球。
 
 #Legendary Quests
-gtnh.line19.name=传奇任务
-gtnh.line19.desc=一个传奇且艰鉅的任务，昂贵的配方和危险的地点。准备好了吗？
-
-#Legendary Tier X
-gtnh.line20.name=传奇X
+gtnh.line20.name=传奇任务
 gtnh.line20.desc=一个传奇且艰鉅的任务，昂贵的配方和危险的地点。准备好了吗？
 
-#Legendary Infinity
-gtnh.line21.name=无穷传奇
+#Legendary Tier X
+gtnh.line21.name=传奇X
 gtnh.line21.desc=一个传奇且艰鉅的任务，昂贵的配方和危险的地点。准备好了吗？
 
+#Legendary Infinity
+gtnh.line22.name=无穷传奇
+gtnh.line22.desc=一个传奇且艰鉅的任务，昂贵的配方和危险的地点。准备好了吗？
+
 #Paying the highest price
-gtnh.line22.name=昂贵的代价
-gtnh.line22.desc=当普通魔法不够的时候，召唤恶魔来服侍你！虽然代价有些吓人...但没有风险就没有乐趣！
+gtnh.line23.name=昂贵的代价
+gtnh.line23.desc=当普通魔法不够的时候，召唤恶魔来服侍你！虽然代价有些吓人...但没有风险就没有乐趣！
 
 #More blood, more stuff
-gtnh.line23.name=更多鲜血，更多材料
-gtnh.line23.desc=高等血魔法？我的静脉感觉很奇怪...
+gtnh.line24.name=更多鲜血，更多材料
+gtnh.line24.desc=高等血魔法？我的静脉感觉很奇怪...
 
 #They are coming...
-gtnh.line24.name=他们来了...
-gtnh.line24.desc=我召唤的灵魂...超越了恶魔入侵。真正堕入黑魔法！
+gtnh.line25.name=他们来了...
+gtnh.line25.desc=我召唤的灵魂...超越了恶魔入侵。真正堕入黑魔法！
 
 #Kill all the things
-gtnh.line25.name=杀了所有的东西
-gtnh.line25.desc=这世界充满了污秽的东西。杀了他们提高你的声望。
+gtnh.line26.name=杀了所有的东西
+gtnh.line26.desc=这世界充满了污秽的东西。杀了他们提高你的声望。
 
 #How to be(e)
-gtnh.line26.name=人来疯(蜂)
-gtnh.line26.desc=一套在游戏中不分阶段的任务，蜜蜂的基础探索和指南。是一个非常有用来推进的工具。
+gtnh.line27.name=人来疯(蜂)
+gtnh.line27.desc=一套在游戏中不分阶段的任务，蜜蜂的基础探索和指南。是一个非常有用来推进的工具。
 
 #To grind, or not to grind
-gtnh.line27.name=磨碎，或者不磨碎
-gtnh.line27.desc="这就是问题所在。你想要更好的工具吗？好，去研磨这些东西！相信我，这些任务的奖励是值得的。
+gtnh.line28.name=磨碎，或者不磨碎
+gtnh.line28.desc="这就是问题所在。你想要更好的工具吗？好，去研磨这些东西！相信我，这些任务的奖励是值得的。
 
 #Reward Area
-gtnh.line28.name=奖励区
-gtnh.line28.desc=升级你的奖励包！
+gtnh.line29.name=奖励区
+gtnh.line29.desc=升级你的奖励包！
 
 
