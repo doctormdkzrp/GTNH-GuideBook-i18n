@@ -2331,8 +2331,8 @@ gtnh.quest581.name=磷灰石电子管
 gtnh.quest581.desc=在你制作第一个农场方块之前，你需要一些磷灰石电子管。先做一些磷灰石长杆（先用车床制作磷灰石杆，然后用锤子或者锻造锤制造长杆），然后还需要一些金螺栓、玻璃和红色合金板。然后将这些零件连同沙子放入热电子加工台中。你就会制造出来它了
 
 #Quest_582.Your first multiblock farm
-gtnh.quest582.name=Your first multiblock farm
-gtnh.quest582.desc=The smallest farm you can build requires 36 farm blocks. For water input you need a valve, items go through the hatches and to supply the farm with energy you need a gearbox. With the farm control block you can control which fields of your farm work by applying a redstone signal. Remember to put creosote in the carpenter when crafting the different farm blocks.
+gtnh.quest582.name=你的第一个多方块农场
+gtnh.quest582.desc=建立一个最小的农场需要36个农场方块。这个农场需要一个农场水阀来引入水，需要一个农场出货箱来输入输出物品，还需要一个农场齿轮箱来给农场提供能量。而农场控制盒可以用红石信号来控制你的农场工作状态。记住！在木工机里面加入杂酚油和相应的材料可以制作材质不同的农场方块。
 
 #Quest_583.Farm logic
 gtnh.quest583.name=农场逻辑电路
