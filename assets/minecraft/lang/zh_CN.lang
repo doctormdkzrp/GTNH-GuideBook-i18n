@@ -654,20 +654,20 @@ gtnh.quest162.name=目标：月球
 gtnh.quest162.desc=在HV阶段，你应该尽快登上月球。在月球上可以获得大量的钛。 提示更多的信息你可以在太空竞赛标签中找到。
 
 #Quest_163.I see everything
-gtnh.quest163.name=我看到的一切(I see everything)
-gtnh.quest163.desc=The inventory panel is an alternative to your (hopefully?) existing project red storage system. Just like project red, you have to connect every chest/barrel with an item conduit. In addition to that, you also have to install a "remote awareness" upgrade into every conduit side you want the panel to see.
+gtnh.quest163.name=我看到了一切(I see everything)
+gtnh.quest163.desc=存储控制面板可以代替红石计划的存储系统（希望吧）。 和红石计划一样，你必须使用管道链接每一个箱子或者木桶。 除此之外，你还需要给每一个链接到存储设备的管道上面安装“远程接入升级”后才可以在面板上面看到里面存储的物品。 提示：这个设备需要使用营养精华液来驱动。
 
 #Quest_164.Portable battery...
 gtnh.quest164.name=Portable battery...
 gtnh.quest164.desc=Not exactly a "battery", more a portable access point for your life points, aka blood.
 
 #Quest_165.Soul eater
-gtnh.quest165.name=Soul eater
-gtnh.quest165.desc=Wouldn't it be great to actually make use of the intelligence or abilities a certain creature has? For example: the ender-teleportation or brain capacity of a zombie for simple logic? (He doesn't use it anyway...) With this machine, you are able to bind a captured soul to an item, which can then be used in machines to improve their functionality.
+gtnh.quest165.name=噬魂(Soul eater)
+gtnh.quest165.desc=如果我们可以利用某些生物的智慧或者能力是不是很好？ 举个例子：利用末影人的传送能力或者僵尸大脑简单的逻辑能力（反正僵尸也用不到大脑=。=）来制造机器。 你可以将灵魂瓶中的怪物灵魂融合进你的特定的机器或者设备来改进他们的功能。
 
 #Quest_166.A new alloy
 gtnh.quest166.name=新的合金(A new alloy)
-gtnh.quest166.desc=There are some... "Darker" uses for machines. Stuff that might be considered "magic". Anyway, for that you need a new alloy: Soularium.
+gtnh.quest166.desc=一些……“邪恶”用途的机器。你可能认为他们是一种“魔法”类型设备。但是不管怎么样，你需要一种新的合金“魂金”
 
 #Quest_167.Experience storage
 gtnh.quest167.name=Experience storage
@@ -678,8 +678,8 @@ gtnh.quest168.name=A soul vessel
 gtnh.quest168.desc=For your new machine, you need something to actually capture souls from monsters. The soul vials are reusable vessels. Just right-click any living entity to steal its soul.
 
 #Quest_169.The creation of life
-gtnh.quest169.name=The creation of life
-gtnh.quest169.desc=By utilizing large amounts of energy, you're able to re-activate those broken spawners you may have found in the past. If you haven't, you should get one of them now.
+gtnh.quest169.name=创造生命
+gtnh.quest169.desc=利用大量的能量，你可以重新激活那些原来你发现的损坏的刷怪笼。如果你过去没有碰到过刷怪笼，那么你现在应该去找到一个！
 
 #Quest_170.Specific enchantments
 gtnh.quest170.name=Specific enchantments
@@ -690,20 +690,20 @@ gtnh.quest171.name=Almost like steel
 gtnh.quest171.desc=Next-gen protection against nasty zombies, creepers and other "stuff".
 
 #Quest_172.Protect your base: Tier 3
-gtnh.quest172.name=Protect your base: Tier 3
-gtnh.quest172.desc=Now we're talking: Grenades! The next in big badda boom hardware.
+gtnh.quest172.name=保护你的基地:第3级
+gtnh.quest172.desc=现在我们可以大喊：手榴弹！ 这些是榴弹发射炮台的零件。
 
 #Quest_173.Tier 3 base
-gtnh.quest173.name=Tier 3 base
-gtnh.quest173.desc=More storage, more power, and a lot more slots for possible upgrades.
+gtnh.quest173.name=3级炮台基座
+gtnh.quest173.desc=3级基座可以储存更多的弹药，更多的能量。还可以安装更多的升级组件！
 
 #Quest_174.This is relatively useful
-gtnh.quest174.name=This is relatively useful
-gtnh.quest174.desc=For... some things... maybe... At least it is fun to watch.
+gtnh.quest174.name=这个炮台可能会比较有用
+gtnh.quest174.desc=恩……可能会有点用，至少这个炮台看起来比较有趣。 备注：这个炮台不会造成伤害，但是可以将怪物困在原地。在·
 
 #Quest_175.Fire in the hole
 gtnh.quest175.name=Fire in the hole
-gtnh.quest175.desc=Ah, there is nothing like an explosion and the certainty that your enemies have been blasted into tiny pieces.
+gtnh.quest175.desc=耶！还有什么能比爆炸将怪物撕成碎片更加过瘾了呢？
 
 #Quest_176.Tier 5
 gtnh.quest176.name=Tier 5
@@ -1894,24 +1894,24 @@ gtnh.quest472.name=Your first tool
 gtnh.quest472.desc=When your tinkers tables are ready you can craft your first tool. If you did not find a village yet you can only craft flint tools. Let's start with a pickaxe, an axe and a shovel. At this point swords are unobtainable since they need metals like iron or bronze which you will get at a later stage. In the meantime use your gregtech swords. Your new tools are weak at first but the more you use them the better they will get. They will level up to level 99 if you play long enough. Tool parts can be replaced for a bit of level XP, however the tool must be fully repaired first.
 
 #Quest_473.Making a better sword
-gtnh.quest473.name=Making a better sword
-gtnh.quest473.desc=Now it's time to make your first tinkers sword. First you have to make blade, hand guard and tool rod cast forms. Melt some bronze in the smeltery and cast your tool parts. Tadaa... there is your first tinkers sword.
+gtnh.quest473.name=做一把好剑
+gtnh.quest473.desc=现在是时候做一把匠魂大剑了！首先你需要制作剑刃、护手和手柄。在匠魂冶炼厂里面融化一些青铜来铸造这些零件。拿去工具组装台把他们装好，这样你就有你第一把剑魂的大剑了。
 
 #Quest_474.Upgrade 2.0
-gtnh.quest474.name=Upgrade 2.0
-gtnh.quest474.desc=Find iron, copper and tin ore. Very funny... How can you mine these with just a flint pickaxe? \nI have an idea; bring me all the stone you mined with your flint pickaxe and I will give you a better tool head in exchange.
+gtnh.quest474.name=升级2.0
+gtnh.quest474.desc=去找铁、铜和锡矿。当然，怎么可能就让你使用燧石镐来挖掘这些矿物。 好吧我有一个注意： 去多开采一些原石，拿过来我会和你交换更好的工具。
 
 #Quest_475.Upgrade #4: Upgrade tier 5
-gtnh.quest475.name=Upgrade #4: Upgrade tier 5
-gtnh.quest475.desc=To process more advanced materials like HSS-E, HSS-S, naquadah or draconium you need more than 4500K. Time to upgrade your EBF to 5400k.
+gtnh.quest475.name=升级#4:升级到第5阶
+gtnh.quest475.desc=要处理更高级的材料，如：高速钢-E、高速钢-S，你需要超过4500K的温度。将你的电力高炉温度提高到5400K
 
 #Quest_476.Upgrade #3: Upgrade tier 6
-gtnh.quest476.name=Upgrade #3: Upgrade tier 6
-gtnh.quest476.desc=To process more advanced materials like naquadah-alloy you need more than 5400K. Upgrade your EBF to 7200k to increase the heat.
+gtnh.quest476.name=升级#5:升级到第6阶
+gtnh.quest476.desc=要处理更高级的材料，如：硅岩、富集硅岩、龙锭，你需要超过5400K的温度。将你的电力高炉温度提高到7200K
 
 #Quest_477.Upgrade #6: Upgrade tier 7
-gtnh.quest477.name=Upgrade #6: Upgrade tier 7
-gtnh.quest477.desc=To process the most advanced materials like neutronium, fluxed-electrum or awakened draconium you need more than 7200K. Upgrade your EBF to 9001k. (OVER 9000!!!)
+gtnh.quest477.name=升级#6:升级到第7阶
+gtnh.quest477.desc=处理最先进的材料（通流琥珀金、觉醒龙锭等）时7200K的炉温也已经无能为力了。因此将你的电力高炉的温度提高至9001K。
 
 #Quest_478.Flint and steel
 gtnh.quest478.name=打火石
@@ -1922,8 +1922,8 @@ gtnh.quest479.name=下界
 gtnh.quest479.desc=现在这里有更加危险的精英怪物。 玩的开心！保重=。=
 
 #Quest_480.Malachite
-gtnh.quest480.name=Malachite
-gtnh.quest480.desc=Another copper source  is "malachite" which can be found between Y level 10 and 40. This vein contains more iron ore variants like "brown limonite", "yellow limonite" and "banded iron ore".
+gtnh.quest480.name=孔雀石矿脉
+gtnh.quest480.desc=铜的另一个来源就是"孔雀石矿脉"。 你可以在Y轴10到40之间发现这种矿脉。这里包含了很多铁矿石的变种，如“带状铁矿脉”“黄褐铁矿石”“棕褐铁矿石” 提示：这种矿石中期提取氢气很有用，留意他们的位置。
 
 #Quest_481.Creosote oil
 gtnh.quest481.name=Creosote oil
@@ -1946,16 +1946,16 @@ gtnh.quest485.name=You need MOOOOOOORE wood
 gtnh.quest485.desc=It's time to feed your new coke oven with some wood to get more charcoal. You are looking for the most efficient way to plant trees. Try to find some spruce saplings and some jungle saplings. Both can be planted in a 2x2 grid to get bigger trees.
 
 #Quest_486.Tanned leather
-gtnh.quest486.name=Tanned leather
-gtnh.quest486.desc=You have found a way to make leather more durable and more resistant by further processing it. Make some bound leather from four pieces of leather, some strings and a woven cotton. Now you only have to hang it on a drying rack and wait about 10 minutes to get some tanned leather.
+gtnh.quest486.name=柔软的皮革
+gtnh.quest486.desc=你已经找到了一种工艺似的皮革更加的耐用。 首先用皮革、线和织棉制作一些钉紧的皮革，然后将钉紧的皮革放到晾晒架上面晾干，大概等个十来分钟你就可以得到柔软的皮革了。
 
 #Quest_487.Need more space?
-gtnh.quest487.name=Need more space?
-gtnh.quest487.desc=As you might know: tanned leather is more resistant and good enough for a backpack. Let's get a digger's backpack and a miner's backpack. Each pack holds different items. So use both for your first true back-packed mining experience.
+gtnh.quest487.name=需要更多的空间吗？
+gtnh.quest487.desc=就像你知道的那样：柔软的皮革可以制作一些很不错的背包。 现在让我们制作一个"挖掘者背包"和一个“采矿者背包”。 每一种背包所能存放的物品不同。所以带上你的背包在实际使用中慢慢了解吧。 提示：手持背包按住Shift点击右键可以改变背包的工作模式。
 
 #Quest_488.You need them all!
-gtnh.quest488.name=You need them all!
-gtnh.quest488.desc=There are many more backpacks: Hunter, builder, forester...
+gtnh.quest488.name=我去年买了个包
+gtnh.quest488.desc=背包有很多种：林业员、建筑师、狩猎者……
 
 #Quest_489.Better lunch bag
 gtnh.quest489.name=Better lunch bag
@@ -2150,8 +2150,8 @@ gtnh.quest536.name=Low tier wires
 gtnh.quest536.desc=Low tier wires like red alloy and tin can be made in a crafting table. Copper wire requires an alloy smelter. So let's make a mold for the rubber plates.
 
 #Quest_537.Time to kill (Witch)
-gtnh.quest537.name=Time to kill (Witch)
-gtnh.quest537.desc=Witches are always infernal and very dangerous. Be careful since they throw potions at you.
+gtnh.quest537.name=杀戮时刻(女巫)
+gtnh.quest537.desc=女巫既可恨又危险，她们总是躲在远处向你扔药水。要小心！
 
 #Quest_538.Basic ore washer
 gtnh.quest538.name=基础洗矿厂
@@ -2226,12 +2226,12 @@ gtnh.quest555.name=N好像是氮？
 gtnh.quest555.desc=你可以通过离心压缩空气单元来获得一些氮气。 因为这个过程涉及到将空气压缩到空单元中，在离心空单元。因此生产氮气的速度特别慢，尤其在低压阶段。由于在中压阶段你需要很多的铝。所以记得没事的时候多囤积一些氮气。
 
 #Quest_556.Glyceryl trini...... what?
-gtnh.quest556.name=Glyceryl trini...... what?
-gtnh.quest556.desc=Kids, today we will make some glyceryl trinitrate with some glycerol.\n    - Chemistry 101
+gtnh.quest556.name=硝化甘油
+gtnh.quest556.desc=孩子们，今天我们将使用甘油来制作一些硝化甘油。 				- 化学101
 
 #Quest_557.NITRO! (Cetane-boosted diesel)
-gtnh.quest557.name=NITRO! (Cetane-boosted diesel)
-gtnh.quest557.desc=720,000 EU per cell. Yes, yes, this is very good! Make some cetane-boosted diesel fuel and power your MV Diesel Engine with it. For LV Diesel Engines this diesel is too potent to be used!
+gtnh.quest557.name=硝基柴油!(高十六烷值柴油)
+gtnh.quest557.desc=每单位720,000EU！是的，是的你没看错！ 制造一些高十六烷值柴油来让增强你的MV级柴油发电机的动力。但是这种柴油太厉害了，导致LV级别的柴油发电机完全不能使用它。
 
 #Quest_558.Where can I put all the items in?
 gtnh.quest558.name=我能把东西放到哪里？
@@ -2951,7 +2951,7 @@ gtnh.quest736.desc=使用MV发酵槽，你可以制造发酵生物质。这是�
 
 #Quest_737.Can u eat those? 
 gtnh.quest737.name=这能吃吗？(Can u eat those?)
-gtnh.quest737.desc=不，这不能吃，但你可以将它们加入你的路由管道。没有这些芯片，路由管道没有任何用处。芯片有一个设定GUI可以使用右键开启。共有八种芯片：物品抽取芯片，用于由容器中抽出物品，送往管道网络中的响应芯片、动态响应芯片、终端芯片，或超载响应芯片。物品响应芯片，会根据过滤条件向网络中的抽取芯片送出物品请求，并将物品送至与之连接的容器。有较高的优先权值的芯片的芯片，将优先获得物品。直到其容器满了，物品才会送至其他符合过滤条件及有空间的容器。动态物品响应芯片会根据容器中的物品，去对网络中的抽取芯片请求物品。这个芯片必须跟物品响应芯片放在同一个接口管道才能作用。优先权规则在此也适用。物品超载响应芯片的作用跟物品响应芯片完全一样。但它只接收多余的物品，也就是无法送往物品响应芯片、动态物品响应芯片，或物品终端芯片的物品。物品终端芯片是响应芯片的备援。物品广播芯片会将其容器中的物品，显示到网络中的路由请求管道，你可以在路由请求管道选择要获取的物品。它们也可以被设定由哪一个方向抽取物品。物品堆栈维护芯片将维持其容器中设定的物品数量，它会持续检查网络以取得缺少的物品。如果芯片设定为用完补充，它将只会在物品用完时补充。物品合成芯片及物品合成扩展芯片用在物品合成管道中，记得要将ID随机数化。
+gtnh.quest737.desc=不，这不能吃，但你可以将它们加入你的路由管道。没有这些芯片，路由管道没有任何用处。芯片有一个设定GUI可以使用右键开启。 共有八种芯片：物品抽取芯片，用于由容器中抽出物品，送往管道网络中的响应芯片、动态响应芯片、终端芯片，或超载响应芯片。 物品响应芯片，会根据过滤条件向网络中的抽取芯片送出物品请求，并将物品送至与之连接的容器。有较高的优先权值的芯片的芯片，将优先获得物品。直到其容器满了，物品才会送至其他符合过滤条件及有空间的容器。动态物品响应芯片会根据容器中的物品，去对网络中的抽取芯片请求物品。这个芯片必须跟物品响应芯片放在同一个接口管道才能作用。优先权规则在此也适用。物品超载响应芯片的作用跟物品响应芯片完全一样。但它只接收多余的物品，也就是无法送往物品响应芯片、动态物品响应芯片，或物品终端芯片的物品。 物品终端芯片是响应芯片的备援。物品广播芯片会将其容器中的物品，显示到网络中的路由请求管道，你可以在路由请求管道选择要获取的物品。它们也可以被设定由哪一个方向抽取物品。物品堆栈维护芯片将维持其容器中设定的物品数量，它会持续检查网络以取得缺少的物品。如果芯片设定为用完补充，它将只会在物品用完时补充。物品合成芯片及物品合成扩展芯片用在物品合成管道中，记得要将ID随机数化。
 
 #Quest_738.Routed Pipes
 gtnh.quest738.name=路由管道(Routed Pipes)
@@ -2959,7 +2959,7 @@ gtnh.quest738.desc=共有六种路由管道：交错管道用于连接互相交�
 
 #Quest_739.Ghetto Me System
 gtnh.quest739.name=涂鸦墙仓储系统(Ghetto Me System)
-gtnh.quest739.desc=现在你对这个模块很熟悉了，是时候将你的基地中的物品整顿一番了。以下是建立基础抽取/送入系统所需要的物品。首先你需要一个抽屉管理器，你可以从奖励取得或者自己制作一个。将抽屉管理器摆放好，在其隔壁摆放任意数量的抽屉。确保它们都彼此相连。下一步是将路由接口管道连接到抽屉管理器上。取出物品响应芯片，将其过滤模式设为黑名单模式(这使你能从系统中取得所有物品)。持芯片对路由接口管道点击右键，将之加入。也别忘了动态物品响应芯片。为了使你的系统能看到所有物品，你必须加入物品广播芯片*到连接抽屉管理器的路由接口管道*。最后一步是将一个路由请求管道连接到*前述路由接口管道的网络*，右键点击请求管道以存取GUI。你只能从此抽取物品。而存放物品只要单纯的对抽屉管理器点击右键。你可以在youtube上找到更复杂的自动合成教学。
+gtnh.quest739.desc=现在你对这个模块很熟悉了，是时候将你的基地中的物品整顿一番了。以下是建立基础抽取/送入系统所需要的物品。 首先你需要一个抽屉管理器，你可以从奖励取得或者自己制作一个。将抽屉管理器摆放好，在其隔壁摆放任意数量的抽屉。确保它们都彼此相连。 下一步是将路由接口管道连接到抽屉管理器上。取出物品响应芯片，将其过滤模式设为黑名单模式(这使你能从系统中取得所有物品)。持芯片对路由接口管道点击右键，将之加入。也别忘了动态物品响应芯片。为了使你的系统能看到所有物品，你必须加入物品广播芯片*到连接抽屉管理器的路由接口管道。 最后一步是将一个路由请求管道连接到路由接口管道的网络，右键点击请求管道以存取GUI。你只能从此抽取物品。而存放物品只要单纯的对抽屉管理器点击右键。 你可以在youtube上找到更复杂的自动合成教学。
 
 #Quest_740.Extrude all the things
 gtnh.quest740.name=压出所有东西(Extrude all the things)
@@ -3239,67 +3239,67 @@ gtnh.quest808.desc=高阶粉末需要HV级搅拌机。
 
 #Quest_809.NASA Workbench aka Dire Crafting Table
 gtnh.quest809.name=NASA工作台，又名终极工作台(NASA Workbench aka Dire Crafting Table)
-gtnh.quest809.desc=Avarita的9x9终极工作台取代了NASA工作台。这是制作所有火箭及高阶装备的必需品。首先，你需要81个工作台来制作一个双重压缩工作台，一些HV组件、晶圆，以及一个水晶矩阵。然后没错，你确实需要地狱之星。提示:检视地狱之星的配方，可使用枯竭水晶及世界盐合成。枯竭水晶可以复制，透过加入熔岩球、烈焰粉，以级小搓地狱之星粉。
+gtnh.quest809.desc=Avarita的9x9终极工作台取代了NASA工作台。这是制作所有火箭及高阶装备的必需品。首先，你需要81个工作台来制作一个双重压缩工作台，一些HV组件、晶圆，以及一个水晶矩阵。然后没错，你确实需要下界之星。 提示:检视下界之星的配方，可使用枯竭水晶及世界盐合成。枯竭水晶可以复制，透过加入熔岩球、烈焰粉，以级小搓地狱之星粉。
 
 #Quest_810.Rocket Tier 1
-gtnh.quest810.name=Rocket Tier 1
-gtnh.quest810.desc=After hours of hard work and a few stacks of TNT your first rocket is finally ready. But before you can go to the Moon you need to craft a few more things.
+gtnh.quest810.name=1阶火箭
+gtnh.quest810.desc=在经过数小时的辛勤努力，你的1阶火箭终于已经准备就绪。但是点火登月之前你需要制作一些其他的东西。
 
 #Quest_811.Tier 1 Schematic
-gtnh.quest811.name=Tier 1 Schematic
-gtnh.quest811.desc=Each rocket needs a construction plan. You can craft the first one using a workstation circuit and a compressed steel plate.
+gtnh.quest811.name=第1阶段：图纸
+gtnh.quest811.desc=制造每个火箭都需要严谨的计划。你可以用工作站芯片和压缩钢板制作一个火箭的制造原理图。
 
 #Quest_812.Tier 1 Heavy Duty Plates
-gtnh.quest812.name=Tier 1 Heavy Duty Plates
-gtnh.quest812.desc=Rockets require heavy duty plates for the main hull. Let's craft 36 of these plates out of compressed aluminium plates, compressed bronze plates and compressed steel plates.
+gtnh.quest812.name=第1阶段：重型防护板
+gtnh.quest812.desc=火箭的主船体需要使用重型防护板来制作。让我们用压缩铝板、压缩钢板、压缩青铜板这些材料来制作36个。
 
 #Quest_813.Rocket Nose Cone
-gtnh.quest813.name=Rocket Nose Cone
-gtnh.quest813.desc=Every rocket needs a nose cone.
+gtnh.quest813.name=火箭鼻锥
+gtnh.quest813.desc=每个火箭都需要鼻锥。
 
 #Quest_814.Rocket Fines
-gtnh.quest814.name=Rocket Fines
-gtnh.quest814.desc=Every rocket needs a few rocket fins.
+gtnh.quest814.name=火箭尾鳍
+gtnh.quest814.desc=每一个火箭都需要一些火箭尾鳍。
 
 #Quest_815.Rocket Engine
-gtnh.quest815.name=Rocket Engine
-gtnh.quest815.desc=Every rocket needs a rocket engine. Better craft two, because the Moon lander needs one also.
+gtnh.quest815.name=火箭引擎
+gtnh.quest815.desc=每一个火箭都需要一台引擎。制作2台1阶火箭引擎，因为到达月球时着陆器也需要一个。
 
 #Quest_816.Moon Lander
-gtnh.quest816.name=Moon Lander
-gtnh.quest816.desc=The Moon lander is requiered for a soft landing.\nYou will need an additional frequency module for hearing some things on planets and a second seat for a Moon buggy you may build later.
+gtnh.quest816.name=登录月球
+gtnh.quest816.desc=登录月球应该实现软着陆。 因此你需要一个频率模块来探测月球上的一些状况和需要一个舒服的座椅。
 
 #Quest_817.Buggy Seat
-gtnh.quest817.name=Buggy Seat
-gtnh.quest817.desc=The buggy seat is part of the Moon lander and the Moon buggy.
+gtnh.quest817.name=车座
+gtnh.quest817.desc=着陆器和月球车上面都需要车座才可以。
 
 #Quest_818.Frequency Module
-gtnh.quest818.name=Frequency Module
-gtnh.quest818.desc=The frequency Module will help you hear sounds properly while in space (it's also used with the telemetry unit so that your buddies can keep track of you from your base, if you are playing with friends). You need it in you inventory and in the Moon lander.
+gtnh.quest818.name=频率模块
+gtnh.quest818.desc=频率模块可以帮助你在宇宙中正常的听见声音。(如果你是和你的朋友一起玩的话，你可以将它和遥感装置一起使用，这样你的朋友可以在基地里看到你的位置。) 你的装备栏和着陆器需要使用它。
 
 #Quest_819.Small Fuel Cannister
-gtnh.quest819.name=Small Fuel Cannister
-gtnh.quest819.desc=Every rocket needs fuel storage cannisters. For the tier 1 rocket you need to craft two of them.
+gtnh.quest819.name=小型燃料罐
+gtnh.quest819.desc=每一个火箭都需要储存燃料的储罐。 1阶火箭需要制作两个小型燃料罐
 
 #Quest_820.Rocket Launch Pad
-gtnh.quest820.name=Rocket Launch Pad
-gtnh.quest820.desc=Every rocket needs a launch pad. Build a 3x3 launch pad to place your rocket on.
+gtnh.quest820.name=火箭发射平台
+gtnh.quest820.desc=发射火箭当然需要发射平台。 建立一个3x3大小的火箭发射平台。
 
 #Quest_821.Rocket Fuel
-gtnh.quest821.name=Rocket Fuel
-gtnh.quest821.desc=To pump fuel into your rocket you need a fuel loader. Place it right next to the middle of any side of the launch pad.
+gtnh.quest821.name=燃料注入器
+gtnh.quest821.desc=将燃料注入火箭需要一台燃料注入器。 将他放置到发射台任何一侧的中部。
 
 #Quest_822.Oxygen Gear
-gtnh.quest822.name=Oxygen Gear
-gtnh.quest822.desc=Oxygen gear is used to attach oxygen tanks to the oxygen mask. This is absolutely vital for any astronaut.
+gtnh.quest822.name=供氧系统
+gtnh.quest822.desc=供氧系统是用来将氧气罐内的氧气输送至氧气面罩内。 这对宇航员来说可是非常重要的东西。
 
 #Quest_823.Oxygen Mask
-gtnh.quest823.name=Oxygen Mask
-gtnh.quest823.desc=The oxygen mask is part of the oxygen system used to breathe on planets without oxygen, the others being oxygen gear and oxygen tanks.
+gtnh.quest823.name=氧气面罩
+gtnh.quest823.desc=氧气面罩是用来在没有氧气的行星上面呼吸的供氧系统的一部分。其他的还需要供氧设备和氧气罐。
 
 #Quest_824.Oxygen Tanks
-gtnh.quest824.name=Oxygen Tanks
-gtnh.quest824.desc=The Light oxygen tank is an oxygen storage tank that can hold up to 90 units of air. It is used to provide a portable source of oxygen while in areas that do not have an oxygen source of their own. Usage:\nUp to two oxygen tanks can be worn at a time. To wear any type of oxygen tank, open your inventory and click on the Galacticraft tab at the top of the menu. Here you will see the available spots for your various types of equipment. Simply place your tank(s) in one of the slots with a grey picture of an oxygen tank. Other types of oxygen tanks are the medium oxygen tank, which holds twice the amount of oxygen as a light tank, and the heavy oxygen tank, which holds three times the amount of a light tank.
+gtnh.quest824.name=氧气罐
+gtnh.quest824.desc=轻型氧气罐可以储存90单位的氧气，在没有氧气的区域他可以作为便携式的氧气来源。 使用方法： 每次最多穿戴任意类型的两个氧气罐，打开物品栏，点击上方的Galacticraft标签，在这里你将会看到携带各种装备的位置。将氧气罐放进氧气罐槽位即可完成穿戴。 还有其他类型的氧气罐，中型氧气罐储存的氧气量是轻型的2倍（180单位），而重型氧气罐则是3倍（270单位）。
 
 #Quest_825.Copper Ore
 gtnh.quest825.name=铜矿
@@ -3307,31 +3307,31 @@ gtnh.quest825.desc=在Y轴5-60之间你能找到“铜矿石”或者“黄铜�
 
 #Quest_826.Iron Ore
 gtnh.quest826.name=铁矿
-gtnh.quest826.desc=With your new bronze tools, you are able to mine most of the Overworld ores. I think you already found iron or magnetite. So bring me some ores and make some iron ingots out of them.
+gtnh.quest826.desc=使用你的青铜工具，你可以开采主世界中大部分的矿物了。 我想你已经找到了铁矿或者磁铁矿了。所以给我带来一些矿石来吧他们做成铁锭。(So bring me some ores and make some iron ingots out of them.)
 
 #Quest_827.Rocket Fuel
 gtnh.quest827.name=火箭燃料
 gtnh.quest827.desc=火箭每次飞行都需要一些燃料，提炼一些火箭燃料并将它们灌入燃料罐中。
 
 #Quest_828.Oxygen Collector
-gtnh.quest828.name=Oxygen Collector
-gtnh.quest828.desc=The oxygen collector is a block that gathers oxygen from leaves and farm plants to use in an oxygen bubble distributor, oxygen sealer, oxygen compressor, and other oxygen-reliant machines. If you plan to build a Moon base, which needs a continuous oxygen supply, you will need to build one.
+gtnh.quest828.name=氧气收集器
+gtnh.quest828.desc=氧气收集器可以从树木或农作物中收集氧气，并提供给如氧气分配器、氧气密封器、氧气压缩机或其他需要氧气的设备。如果你打算在月球建立一个基地，那么就需要这个设备提供持续的氧气供应。
 
 #Quest_829.Oxygen Compressor
-gtnh.quest829.name=Oxygen Compressor
-gtnh.quest829.desc=The oxygen compressor is used to fill empty or depleted oxygen tanks. Connect an oxygen pipe to the blue ring input side and a power source to the grey square input side. Place an oxygen tank in the bottom right slot and it will take oxygen from the input and place it into the tank.
+gtnh.quest829.name=氧气压缩机
+gtnh.quest829.desc=氧气压缩机是用来补充未满或者已经耗尽的氧气罐内氧气的设备。 将氧气通过氧气管道连接到蓝色一侧输入机器内部，电源则要从灰色的面输入。在机器的GUI右下角放入氧气罐他就会将氧气压缩进氧气罐内。
 
 #Quest_830.Parachute
-gtnh.quest830.name=Parachute
-gtnh.quest830.desc=A parachute is used to prevent death upon re-entry into the Overworld's atmosphere. The parachute is an essential part of your journey to space. You should never journey into space without it. There will even be a warning if you try to launch without one on you.
+gtnh.quest830.name=降落伞
+gtnh.quest830.desc=降落伞可以防止在返回主世界大气层是是降落的时候摔死。 降落伞是太空旅行中不可缺少的必备装备之一。 不带着降落伞就进行太空之旅是非常危险的。 (There will even be a warning if you try to launch without one on you.)
 
 #Quest_831.Advanced Wafers
-gtnh.quest831.name=Advanced Wafers
-gtnh.quest831.desc=The advanced wafer is used for more advanced machines such as the advanced solar panel or the avaritia dire crafting table. It is also used in the creation of a space station.
+gtnh.quest831.name=高级晶圆(Advanced Wafers)
+gtnh.quest831.desc=更先进的晶圆可以制造更先进的机器，比如高级太阳能板和进入星辰大海最重要的终极工作台。 高级晶圆也可以用于建立空间站。
 
 #Quest_832.Wafers
-gtnh.quest832.name=Wafers
-gtnh.quest832.desc=The basic wafer is used for creating basic machines such as the basic solar panel, the fuel loader, the energy storage module and the compressor.
+gtnh.quest832.name=基础晶圆(Wafers)
+gtnh.quest832.desc=基础晶元用于制造各种基础的机器，如基础太阳能面板、燃料注入器、能量存储模块等。
 
 #Quest_833.Purge your warp
 gtnh.quest833.name=Purge your warp
@@ -3427,8 +3427,8 @@ gtnh.quest855.name=一氧化氮
 gtnh.quest855.desc=要制造一氧化氮你需要在化学反应釜中结合氧和氨。
 
 #Quest_856.1,1-Dimetylhydrazine
-gtnh.quest856.name=二甲肼
-gtnh.quest856.desc=To make 1,1-dimethylhydrazine you need to combine some dimethylamine and chloramine in a chemical reactor.
+gtnh.quest856.name=偏二甲肼
+gtnh.quest856.desc=要制造偏二甲肼你需要1单位的二甲胺和1单位的氯氨进行反应。
 
 #Quest_857.Dimethylamine
 gtnh.quest857.name=二甲胺
@@ -3743,20 +3743,20 @@ gtnh.quest939.name=电动锄
 gtnh.quest939.desc=你的锄头现在肯定已经磨坏了！为什么不制作一个永远不会损坏的电动锄头呢？ (有不稳定的锄头不知道这个东西有什么存在的意义23333)
 
 #Quest_940.Cleanroom
-gtnh.quest940.name=Cleanroom
-gtnh.quest940.desc=If you want to make more advanced circuits you need a cleanroom. The cleanroom is a multiblock between 3x4x3 and 15x15x15 (WxHxDx) blocks. Besides plascrete blocks you need a controller, filter casings on the top, an energy and maintenance hatch , a reinforced door and three machine hulls. For now you can use mv tier.\n\nLet's build a 5x5x5 room.
+gtnh.quest940.name=超净间
+gtnh.quest940.desc=普通环境已经不能满足制造更加先进电路所需要的无尘环境了，只有超净间能够满足制造它们所需要的无尘环境。 超净间整体为大小在3x4x3到15x15x15之间的中空多方块结构。超净间的地板和墙壁需要使用塑料混凝土方块来搭建。在底层和墙壁方块中，需要放置1个维护仓、1个MV能源仓、3个MV机械方块和1扇IC2的防爆门。防爆门可以通过压力板来控制开关。 过滤机械方块来作为超净间的天花板。在天花板的中央位置放置超净间控制器，控制器必须要放在正中间，因此超净间的长宽必须为奇数。 能源仓和机械方块都可以使用不同等级的方块替换，目前我们使用MV等级的。 让我来搭建一个5x5x5的超净间。
 
 #Quest_941.A very useful Scanner
-gtnh.quest941.name=A very useful Scanner
-gtnh.quest941.desc=The portable scanner is a tool capable of showing advanced information about almost every block in the game. \nIn order to function, the tool needs to be charged first. It can hold up to 400k EU and accept 128 EU/t or less. This is MV tier.\n\nIt can scan crops, which shows more information than the cropnalyzer does. The crop, which was scanned in the world, will drop a scanned seed bag.\nIt can scan machines from GregTech, giving information about current progress, the stored energy, efficiency, problems and CPU-load.\nFor any block in the game it scans, it gives information about its ID, Metadata, position in the world and hardness value.\nIt also gives information about pollution level in the chunk the scanned block belongs to.\nAdditional to that it shows when the clenroom has reached his 100% efficeny level.
+gtnh.quest941.name=一个非常有用的扫描仪
+gtnh.quest941.desc=这个便携扫描仪是一个非常有用的工具，他可以扫描游戏中几乎每一个方块并且显示很多有用的信息。 这个工具首先你需要给它充电。它可以接受MV级别128EU/T的充电速率，并且可以储存400kEU的电量。 它可以扫描在作物架上面的种子，你可以看到信息比IC2作物扫描仪还要多一些。但是它不能扫描掉落在世界中的种子袋。 它可以扫描GT的各种机器，能看到当前工作的进度，储存的能量、效率、CPU负载等。 对于游戏中任何方块，它都会获得它的ID、元数据、位置及硬度值。 并且还可以扫描当前区块的污染数值！ 除此之外还可显示超净间内的洁净水平。
 
 #Quest_942.The Plunger
 gtnh.quest942.name=搋(chuai)子
 gtnh.quest942.desc=搋子可以帮助你移除管道中残留的液体，也可以用来移除机器缓存区的液体(右键点击一次移除1000mb)。这可以使你不必每次都把机器拆掉重新放置。 制作它需要各种的杆和橡胶板，杆会决定制作出来的搋子的耐久度。 提示： 手持搋子攻击怪物可以造成2.75 - 7.75的伤害，具体伤害要看制造搋子杆的材料。
 
 #Quest_943.Performing chemical experiments at hv Level
-gtnh.quest943.name=Performing chemical experiments at hv Level
-gtnh.quest943.desc=High tier chemical recipes like ammonia need an HV chemical reactor.
+gtnh.quest943.name=高压级别的化学实验
+gtnh.quest943.desc=更高级别的化学反应需要更高级别的电压，比如说氮气和氢气反应为氨气的就需要在高压的化学反应釜里面进行。
 
 #Quest_944.Super Tank I
 gtnh.quest944.name=超级储罐 I
