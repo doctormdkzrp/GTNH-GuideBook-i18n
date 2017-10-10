@@ -802,7 +802,7 @@ gtnh.quest199.name=QED(Quit exhaling dusts)
 gtnh.quest199.desc=QED可以制造末影采石场或者末影岩浆泵这类特别牛逼的东西！ 还可以制造卓越火炬，这样可以保护你的基地大范围内不会刷怪！
 
 #Quest_200.Advanced mob-protection
-gtnh.quest200.name=Advanced mob-protection
+gtnh.quest200.name=高级怪物防护
 gtnh.quest200.desc=卓越火炬和奢华吊顶灯类似，可以阻止很大范围内刷怪。所以一个卓越火炬可能就能保护你的整个基地。
 
 #Quest_201.Automated mining
@@ -854,8 +854,8 @@ gtnh.quest212.name=粉碎月亮
 gtnh.quest212.desc=就是字面的意思。 你可以吧大部分的行星岩石扔到研磨机里面打碎，这些被打碎的灰尘通过离心有一定几率产出很多有用的金属。 这并不需要很多的能量，但是我确信可以帮助到你。
 
 #Quest_213.Tier 6
-gtnh.quest213.name=Tier 6
-gtnh.quest213.desc=IV-Level. You will need tungstensteel for machines. Supposed planets and moons to visit: Mars, Phobos, Deimos. You should've learned "how to gregtech" by now, if not go clean up the machine craters in your base...
+gtnh.quest213.name=第6阶段
+gtnh.quest213.desc=在IV级。你的机器将会需要钨钢。 你应该去访问火星和它的卫星：火卫一和火卫二。 到目前为止你应该已经精通了格雷科技，前提是如果你还没有清理过格雷机器在你家里留下的大坑……
 
 #Quest_214.This is the end.... ?
 gtnh.quest214.name=这就结束了……？
@@ -866,8 +866,8 @@ gtnh.quest215.name=前往第7阶段的路上(On your way to tier 7)
 gtnh.quest215.desc=下一个阶段我想应该是"到达其他的小行星"并且拥有IV级别的机器。 当你进入了这个级别，你的机器应该已经发挥了几乎全部的潜能。去一些小行星上采集一些珍贵的矿石可以帮助你提高你的发电能力。
 
 #Quest_216."Clean" energy..?
-gtnh.quest216.name="Clean" energy..?
-gtnh.quest216.desc=Finally, a reliable and powerful source of energy for your base. And why waste your time with a 2k generator? Go for a 8k one! \n\nHint: It's probably a good idea to wear your hazmat suit before claiming your reward...
+gtnh.quest216.name="清洁"的能源？
+gtnh.quest216.desc=最后一个可靠的常规能源。 不要在你的EV级发电机上面浪费时间了！去做一个IV级的发电机。 提示： 在你领取你的奖励之前，穿上你的防护服是一个不错的注意。
 
 #Quest_217.Final choice: Void
 gtnh.quest217.name=最终的选择：虚空
@@ -878,8 +878,8 @@ gtnh.quest218.name=最终的选择：奖励包
 gtnh.quest218.desc=你不需要虚空空间？好吧那么你可能很高兴得到一些奖励包。 做好你的选择！你只有一次机会。
 
 #Quest_219.Almost unbreakable
-gtnh.quest219.name=Almost unbreakable
-gtnh.quest219.desc=Probably not required any more, but you made so many walls. So why not to get the best ones?
+gtnh.quest219.name=几乎牢不可破
+gtnh.quest219.desc=你可能已经不需要它了，但是既然你已经制作了这么多的墙。到了最后为什么不用一些最好的呢？
 
 #Quest_220.Protect your base: Tier 5
 gtnh.quest220.name=保护你的基地:第5级
@@ -946,7 +946,7 @@ gtnh.quest235.name=更好的螺钉
 gtnh.quest235.desc=很不幸，你的铝螺钉已经不能固定宏伟之木木棍了。不知为什么，宏伟之木木棍有一种神秘的力量在排斥着铝螺钉。不过幸运的是，你有一个高炉，可以制作出比铝更好的金属了。 快去试一试。
 
 #Quest_236.A more powerful "scale"
-gtnh.quest236.name=A more powerful "scale"
+gtnh.quest236.name=更强大的力量
 gtnh.quest236.desc=娜迦的力量很弱，使用它们制造的魔杖仅能保存有限的"VIS"。你需要一个更好、更强大的容器来让你的魔杖储存更多的“VIS”。你听说过暮色森林邪恶的巫师的传说么？也许……他有一些东西是你想要的。
 
 #Quest_237."Stores 50 vis" wand
@@ -1186,7 +1186,7 @@ gtnh.quest295.name=Essentia storage
 gtnh.quest295.desc=Sure, you could just go with gazillions of jars, but it's way more convenient to store essentia in a chest or barrel. Isn't it?
 
 #Quest_296.The basic elements
-gtnh.quest296.name=基础元素(The basic elements)
+gtnh.quest296.name=基础元素
 gtnh.quest296.desc=Of course you know where and how to get the basic essentia types. Do you..?
 
 #Quest_297.Essentia transmission
@@ -1234,8 +1234,8 @@ gtnh.quest307.name=The power of gods
 gtnh.quest307.desc=The pearl you've found has some interesting effects on you. Not only are the voices almost gone, somehow it has also expanded your perception. You can "feel" the magic around you. This is definitely worth some further investigation.
 
 #Quest_308.The final goal
-gtnh.quest308.name=The final goal
-gtnh.quest308.desc=Thanks to your help I have managed to create the ultimate energy source: An encased wormhole that drains energy from a synthesized pocket universe, to the point when it reaches heat death. I have no use for it, so you may have it. Thank you for making my dream come true!
+gtnh.quest308.name=最终的目标
+gtnh.quest308.desc=在你的帮助下，我终于创造了一个终极的能量来源:一个被磁场包裹的迷你虫洞。它将从人工宇宙中吸取能量，直到它生命的终点-热寂。 你已经帮助我完成了我的梦想，这个人工虫洞我还没有使用它，现在他是你的了。 最后再次感谢你，我的朋友！
 
 #Quest_309.Shards of opposite worlds
 gtnh.quest309.name=Shards of opposite worlds
@@ -1402,8 +1402,8 @@ gtnh.quest349.name=Be a vampire; Like a sir
 gtnh.quest349.desc=Sometimes it can be troublesome to get fancy clothing. However, if you prove yourself worthy, you get a set for free.
 
 #Quest_350.A few more things...
-gtnh.quest350.name=A few more things...
-gtnh.quest350.desc=Ok, I think I have everything I need to assemble the device. Can you assist me with some additional materials? I need to update most of my machines, as these exotic components you got me damaged most of them already. Don't worry, I have a list here.\n\nMost of my circuits burned to a crisp while I was trying to measure the conductivity of these soul and life shards. I need better ones.\n\nGood lord, these mysterious crystals have eaten away my diamond grinding head! How could that happen? Can you get me a better one?\n\nDo you see that pile of chrome over there? No? Neither do I. Because the machine was VAPORIZED! Good that you gave me 2 singularities, the first one... Well... Just get me a better casing, would you?\n\nIt seems, that the stabilizers need... stabilizing... But I'm out of field generators. Can you help me with this?
+gtnh.quest350.name=还有点事
+gtnh.quest350.desc=好吧，我这里有全套的组装设备。但是你能帮我准备一些额外的配件吗？ 我需要升级我大部分的机器。在研究他们时我的大部分机器都损坏了。来吧我给你列个清单。  在我测试这些生命和灵魂碎片的导电率时我的大部分电路都被烧毁了，我需要一些更好的电路替换它们。 还有这些天杀的神秘碎片，我的钻石磨头对它们无能为力，帮我买个更好的来。 还有你看到旁边那堆铬了吗？什么，没看到？好吧那可能是因为你给我奇点…………哎……算了，给我弄一个更好的机器外壳吧。 最后我没有稳定器所需要的力场发生器，再给我弄2个过来。
 
 #Quest_351.Hello there
 gtnh.quest351.name=Hello there
@@ -1414,15 +1414,15 @@ gtnh.quest352.name=Power. So much power!
 gtnh.quest352.desc=If only I could harness it... Well, hi there my friend. I need your help with a project of mine. I want to create an immense power source, but I have a few problems that I need to solve first. Will you help me? You will be rewarded.
 
 #Quest_353.A problem that matters
-gtnh.quest353.name=一个重要的问题(A problem that matters)
+gtnh.quest353.name=一个重要的问题
 gtnh.quest353.desc=我需要打开一个虫洞。但是我需要一个巨大的引力场。 就像恒星爆炸时那样强大的引力场。 但是我不可能去“杀死”太阳。我需要某种方法来压缩物质。 但是，怎么做？
 
 #Quest_354.Now that matters!
-gtnh.quest354.name=现在的问题(Now that matters!)
+gtnh.quest354.name=Now that matters!
 gtnh.quest354.desc=哦！物质聚合器！我怎么就没想到呢？
 
 #Quest_355.I need a stabilizer
-gtnh.quest355.name=我需要一个稳定器(I need a stabilizer)
+gtnh.quest355.name=我需要一个稳定器
 gtnh.quest355.desc=如何打开虫洞是一个问题，而如何稳定虫洞是另外一个问题。我需要保证打开的虫洞不能威胁到我们的安全。 我想我需要某些晶体。为什么？因为我喜欢晶体。给我找一个有用巨大力量并且由透明材质构成的水晶。
 
 #Quest_356.Shiny!
@@ -1439,67 +1439,67 @@ gtnh.quest358.desc=我正在制造的这台设备需要某种插头来做能量�
 
 #Quest_359.Red and blue
 gtnh.quest359.name=红色和蓝色
-gtnh.quest359.desc=Really? A red and blue crystal? How awesome is that! I think I will need 8 of each color, just to be sure.
+gtnh.quest359.desc=真的？红色和蓝色的水晶？这真令人惊叹！ 以防万一，我想我每一种都需要8个。
 
 #Quest_360.A casing
 gtnh.quest360.name=外壳
 gtnh.quest360.desc=我需要一些制造外壳的材料。 再说一次，晶体材料将是最好的选择，因为我喜欢它们的光泽。 我测试了我知道的所有晶体材料，但是没有一种晶体可以满足我的要求。 听说你最忌你有空？你在外边冒险的时候能不能帮我找一找合适的材料？
 
 #Quest_361.Fancy!
-gtnh.quest361.name=Fancy!
+gtnh.quest361.name=真贵!
 gtnh.quest361.desc=是的，是的！就是它！ 多给我准备一些！我可能会需要很多这种材料……
 
 #Quest_362.Beyond imagination
-gtnh.quest362.name=Beyond imagination
-gtnh.quest362.desc=What is this? Draconium dust? I wonder if I could use this for something...
+gtnh.quest362.name=超乎想象
+gtnh.quest362.desc=这是什么？龙尘？我想知道能否用它来做些什么。
 
 #Quest_363.The power of dragons
-gtnh.quest363.name=The power of dragons
-gtnh.quest363.desc=Hey my friend. I got your sample, and I have to say, I'm amazed. This material has a lot of potential, but it's useless at the moment. I have an idea how to turn this into something useful, but I need you to help me with a few problems first.\n\nI need a good handful of that stuff for my research. Please get me some.
+gtnh.quest363.name=龙的力量
+gtnh.quest363.desc=嘿朋友。我收到了你的样本，不得不说我真的很惊讶。 这个材料具有很大的潜力，但是现在它没有什么用途。 我有一个主意，怎么能利用这种材料。但是首先你要帮我解决一些问题。 我需要很多龙尘的样本来供我研究，请多给我带过来一些。
 
 #Quest_364.A hull
-gtnh.quest364.name=A hull
-gtnh.quest364.desc=First things first, we need a hull. I played around with your sample, and it seems that it reacts with every known material. It even attacks Iridium! It's completely harmless if it's in a box that is open, but as soon as I try to enclose it in something, poof. It breaks free. We need something stronger than iridium my friend.
+gtnh.quest364.name=一个外壳
+gtnh.quest364.desc=首先，我需要一个外壳。 我测试了你的样品，我发现它似乎和所有的已知材料都会发生反应。 甚至铱也不例外！ 如果把它放进一个打开的盒子，那么它不会发生任何变化。但是我尝试把盒子关上的时候…………嘭-它打破了盒子。 所以我需要一些比铱还要坚固的材料，我的朋友。
 
 #Quest_365.Dense, denser, Neutronium
-gtnh.quest365.name=Dense, denser, Neutronium
-gtnh.quest365.desc=Now look at this. This stuff is incredibly dense. Maybe this material will be sufficiently strong?\n\nThis looks promising. Send me some samples, and I will try my luck.
+gtnh.quest365.name=密度很大很大的中子锭
+gtnh.quest365.desc=看看这个。这种材料的密度大的难以置信。 也许这是一种很有前景的坚固材料。 给我弄回一些样品，我去碰碰运气。
 
 #Quest_366.Not a planet
-gtnh.quest366.name=Not a planet
-gtnh.quest366.desc=This place is interesting. Maybe I should try to find new materials here...
+gtnh.quest366.name=不是行星
+gtnh.quest366.desc=这个地方很有趣。也许我能在这里找到一些新材料……
 
 #Quest_367.Successful.. Or not?
-gtnh.quest367.name=Successful.. Or not?
-gtnh.quest367.desc=Heh, neutronium. I didn't even know such a thing really exists. Unfortunately, the draconium dust was enclosed for... 5 seconds? But, it was a small success. \n\nOk let's travel to some planets and moons and look for the new material. I think we have to fly very far away for it.
+gtnh.quest367.name=无论成功与否
+gtnh.quest367.desc=嘿，中子锭！我甚至不知道这种事情真的能够发生。我将龙尘成功的放进了由它做成的盒子中。不幸的是只坚持了5秒。 但是是一个小小的成功。 我想我们要去更加遥远的行星或者卫星去寻找一些新的材料。
 
 #Quest_368.Black Plutonium
-gtnh.quest368.name=Black Plutonium
-gtnh.quest368.desc=This doesn't seem to be dense, but it's a material you haven't seen before. Maybe this could be the solution?\n\nBlack what? Huh, interesting. Send me some samples, I want to analyse it.
+gtnh.quest368.name=黑钚
+gtnh.quest368.desc=这种材料的密度似乎不是很大，但是你从来没见过它。也许这种材料能完成我的实验？ 黑什么？哈哈，挺有趣。给我寄回来一些样品，我想分析一下。
 
 #Quest_369.We have a hull
-gtnh.quest369.name=We have a hull
-gtnh.quest369.desc=Surprisingly, this material is able to contain the draconium dust. It could be the radiation. Good job my friend!
+gtnh.quest369.name=我们有外壳了
+gtnh.quest369.desc=真令人惊讶，这种材料可能是由于辐射的原因，可以封闭并且抑制龙尘的能量。 干得好我的朋友
 
 #Quest_370.Draconium Dust core
-gtnh.quest370.name=Draconium Dust core
-gtnh.quest370.desc=I've created a first sample of what I shall call "Draconium Dust core". Not quite the result I expected to be honest, but see for yourself.
+gtnh.quest370.name=龙尘核心
+gtnh.quest370.desc=我创造了我的第一个样本“龙尘核心”。 但是坦诚的说，这没有达到我的预期。 你自己看一看吧。
 
 #Quest_371.We need to control it
-gtnh.quest371.name=We need to control it
-gtnh.quest371.desc=The problem is, that the immense power of this dust is released all at once. We need something to control the vast amount of energies. I noticed that the dust starts to glow when it gets near an aura node. Maybe Thaumaturgy has the solution?
+gtnh.quest371.name=我需要控制它
+gtnh.quest371.desc=这个样本的主要问题是，它内部的巨大力量一下子就被释放出来了。我们需要一些东西来控制它的能量输出。 我注意到在龙尘接近灵气节点的时候它会开始发光。也许TC可以帮助我们解决这个问题？
 
 #Quest_372.The power of primals
-gtnh.quest372.name=The power of primals
-gtnh.quest372.desc=What else could control energies better than a focus of crystallized primal energy? With this little item, it should be possible to control the energies released from the dust.
+gtnh.quest372.name=元始力量
+gtnh.quest372.desc=还有什么能比元始珍珠更好的聚集和控制能量呢？ 有了这个小东西，应该就能够控制从龙尘中释放出来的能量了。
 
 #Quest_373.Unforeseen consequences
-gtnh.quest373.name=Unforeseen consequences
-gtnh.quest373.desc=You haven't heard anything in a while from the technician. You have a feeling that something might have gone terrible wrong, so you went to his place to investigate. What you found was... nothing. A void. It seems that he tried to combine the pearl with the dust. What did he say? The dust reacts to aura nodes? Of course it does. It amplifies the energies by a thousand times. And giving it raw primal energy, good lord, what has he done. May he rest in peace...
+gtnh.quest373.name=意外
+gtnh.quest373.desc=你再也没有听到过技术员的消息。 冥冥中你感觉可能发生了一些很可怕的事情。 你来到了技术员的研究室，发现这里一片虚无，什么都没有了。 在你努力调查后发现，他似乎想把元始珍珠和龙尘结合在一起。 他原来说过什么？龙尘对灵气节点有反应？ 然后用元始珍珠放大了1000倍的能量？ 哦我的天啊，他都做了什么？ 愿他在天堂安息。
 
 #Quest_374.I'm on my own now
-gtnh.quest374.name=I'm on my own now
-gtnh.quest374.desc=I need to continue my research. I still think that this primordial pearl is the key to control the dust, but I'm not sure how. Maybe the pearl is just too strong? I should try to use something that's similar, but less powerful. It reacts to vis, so maybe.. I should try to make a wand focus with that pearl. That way, I could channel vis into the dust without actually combining both.
+gtnh.quest374.name=现在要靠我自己了
+gtnh.quest374.desc=我还需要继续我的研究。 我仍然认为这个元始珍珠是控制龙尘的钥匙，但是我不知道要怎样做。也许是元始珍珠的力量太强大了？ 我应该尝试使用一些类似但是力量稍微弱东西。 龙尘对于"VIS"有反应，我应该可以使用元始珍珠作为魔杖的核心，在外部引导“VIS”和龙尘相结合。
 
 #Quest_375.An interesting material
 gtnh.quest375.name=An interesting material
@@ -1515,22 +1515,22 @@ gtnh.quest377.desc=You've tried a lot, and nothing was quite enough to activate 
 
 #Quest_378.Activated draconium dust
 gtnh.quest378.name=Activated draconium dust
-gtnh.quest378.desc=At least for a short period of time. The wand focus is powerful enough to activate the dust, but it will convert back to regular dust as soon as I stop feeding it with vis. If I only could contain it, surround it with a forcefield...
+gtnh.quest378.desc=魔掌核心的力量在短时间内可以引导足够大的力量来活化龙尘。 但是只要我停止提供“VIS”，活化龙尘就会变回普通的龙尘。 如果我能用一种力场来控制这个过程……
 
 #Quest_379.The strongest forcefield
-gtnh.quest379.name=The strongest forcefield
-gtnh.quest379.desc=In order to create a forcefield, I need to build myself a containment device. I will use only the best emitters I can afford. I will take no risks here.
+gtnh.quest379.name=最强的力场
+gtnh.quest379.desc=为了创造一个力场，我需要自己动手建立一套控制装置。 我会使用我能买的起的最好的发射器。 我不会在这方面冒险的！
 
 #Quest_380.Not what I expected...
 gtnh.quest380.name=Not what I expected...
-gtnh.quest380.desc=The outcome was... interesting. It did not explode, instead, the activated draconium dust generated a counter-field to mine! Unfortunately, the emitters could not stand the reverse energies, and melted. I was able to shut it off quick enough to save the machine casing (At least what's left from it...) And a couple of field generators.
+gtnh.quest380.desc=结果……挺有趣。 装置没有爆炸，相反活化龙尘生成了一种反向力场！ 不幸的是，发射器不能接收反向能量，融化掉了。 多亏我即使关闭了装置，以节省机器外壳（至少还剩下了几个）……和几台发电机。
 
 #Quest_381.Forcefield, second try
-gtnh.quest381.name=Forcefield, second try
-gtnh.quest381.desc=I came to the following conclusion: Draconium dust seems to react nicely with all kinds of magic energy, and seems to repel technology. So I need to find a way to create a forcefield with magic alone. There must be a way...
+gtnh.quest381.name=力场！第二次尝试
+gtnh.quest381.desc=我得出了一个结论：龙尘似乎与所有种类的魔法能量很好的融合，但是相当排斥科学技术。 所以我需要找到一个方法来创建一个魔法力场。 一定会有办法的！
 
 #Quest_382.A magic force field
-gtnh.quest382.name=A magic force field
+gtnh.quest382.name=魔法力场
 gtnh.quest382.desc=While node stabilizers are too weak, you found a way to generate a strong containment field, generated by magic itself. You tried to use warded glass, but even the "frozen in spacetime" material could not resist the power of activated draconium dust. You decided to build another device, this time with your newest invention.\n\nThe vortex attenuator is powerful enough to negate even hungry nodes, and it also will be able to contain activated draconium dust.\n\nJust to be sure, I will add some amplifiers to it.
 
 #Quest_383.What the...?
@@ -1859,7 +1859,7 @@ gtnh.quest463.desc=Speed rune is the only tier 2 rune. The speed rune does what 
 
 #Quest_464.The technician part 2
 gtnh.quest464.name=The technician part 2
-gtnh.quest464.desc=I will ask the technician about this stuff, but I need to reach a good reputation first. He is a busy man, and I don't want to be denied.
+gtnh.quest464.desc=我想咨询技术员一些新型材料方面的问题，但是我首先需要一些声誉。 因为他很忙，我可不想被拒绝。
 
 #Quest_465.Trigger Nt
 gtnh.quest465.name=Trigger Nt
@@ -2238,20 +2238,20 @@ gtnh.quest558.name=我把所有的东西放在哪里？
 gtnh.quest558.desc=在你烧炼第一块钢后，你就能制作这个小背包。在这个背包里，你可以放很多你想要带的东西。它有36个格子，比一个小箱子大一点。
 
 #Quest_559.Low pressure boiler tank
-gtnh.quest559.name=Low pressure boiler tank
-gtnh.quest559.desc=The low pressure boiler tank is the easiest way to store steam. The firebox needs this tank on top to produce steam. The bigger the boiler the slower it heats up, but it will produce more steam when heated up.
+gtnh.quest559.name=低压锅炉
+gtnh.quest559.desc=利用低压锅炉方块可以缓存燃烧室产生的蒸汽。 低压锅炉需要安装在燃烧室的顶部。 锅炉的体积越大预热越慢，但是之后产生的蒸汽会越多。
 
 #Quest_560.Railcraft steam power
-gtnh.quest560.name=Railcraft steam power
-gtnh.quest560.desc=As an alternative way to steam you can use the railcraft boilers. They require at least one firebox.\nMore than one size is possible: (1x1 mentioned above) 2x2 and 3x3. Each boiler needs 1, 2 or 3 layers of tanks on top, depending on the size.
+gtnh.quest560.name=用RC制造蒸汽
+gtnh.quest560.desc=RC的锅炉是另一种产生蒸汽的方法。 RC锅炉是一种多方块结构，最少需要一个燃烧室（还有2×2和3×3的结构可选）。 每一台锅炉都需要根据燃烧室的尺寸配置相应数量的低压或者高压锅炉方框才能正常工作(1×1配置1层锅炉方块、2×2配置2层、3×3配置3层)
 
 #Quest_561.Liquid fuelled firebox
-gtnh.quest561.name=Liquid fuelled firebox
-gtnh.quest561.desc=Cresosote oil into steam! After you make your first steel you are able to craft a liquid fueled firebox.\nDiesel, ethanol, creosote and biofuel all work well here.
+gtnh.quest561.name=液态燃料燃烧室
+gtnh.quest561.desc=可以烧杂酚油来生产蒸汽了！ 在你有了钢之后你就可以制作一个液态燃料燃烧室了。 柴油、乙醇、杂酚油和生物柴油都可以作为燃料。
 
 #Quest_562.High pressure boiler tank
-gtnh.quest562.name=High pressure boiler tank
-gtnh.quest562.desc=After you make steel you are able to craft a high pressure boiler tank. The upgraded version increases the temperature and produces more steam than the low pressure version.
+gtnh.quest562.name=高压锅炉
+gtnh.quest562.desc=当你有了钢之后你就可以制作高压锅炉方块了。 高压锅炉比低压锅炉的温度更高，产生蒸汽的速度更快。同时存储的蒸汽量也是低压锅炉的2倍。
 
 #Quest_563.Bookshelves...? Ah forestry... Multiblock farms!
 gtnh.quest563.name=书架……？哦林业……还有多方块农场！
@@ -2306,11 +2306,11 @@ gtnh.quest575.name=Bee Advanced > Expert
 gtnh.quest575.desc=Three advanced bee lootbags give a better one = Expert Bee Lootbag.
 
 #Quest_576.Working table 2.0
-gtnh.quest576.name=Working table 2.0
-gtnh.quest576.desc=A manual crafting table which remembers the last nine used recipes. Left click one of the recipes shown in the right-hand side to automatically fill in the crafting grid. Right-click to lock a memorized recipe and prevent a newer recipe from bumping it off.\n\nResources need to go into the internal inventory. The crafting matrix is only a visual representation.
+gtnh.quest576.name=工作台2.0
+gtnh.quest576.desc=一个强化的手动工作台，但是这个工作台可以记住之前的9个合成表。 左键点击右侧的合成表可以提取合成配方。 右键点击可以锁定合成表。 合成所使用的物品可以放置到GUI下方的物品缓存区内。 工作台上面的制作矩阵仅仅是视觉效果，并没有实际用途。
 
 #Quest_577.Forestry core block
-gtnh.quest577.name=Forestry 核心方块
+gtnh.quest577.name=林业mod核心方块
 gtnh.quest577.desc=坚固部件几乎是所有农业方块的基础，你可以理解为他是农业MOD里面的机械外壳！
 
 #Quest_578.The carpenter
